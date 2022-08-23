@@ -9,6 +9,6 @@ The necessity of mobile robots for complex and dangerous environments has initia
 [Project Report : Design, development and simulation of Quadruped Robot](https://drive.google.com/drive/folders/1nUOuL8gcifb-PYRv1ZgWMqgnOXHMn6eC?usp=sharing)
 
 
-## Screenshots
+## CAD Model Images. 
 
-![Mechanical Model](https://drive.google.com/drive/folders/1ipz5YYaFx0Rpg94doUTfeC6lEqRKWpnm?usp=sharing)
+[Mechanical Model](https://drive.google.com/drive/folders/1ipz5YYaFx0Rpg94doUTfeC6lEqRKWpnm?usp=sharing)
